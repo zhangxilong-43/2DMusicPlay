@@ -6,7 +6,7 @@
 
 demo演示：
 
-![](/Users/zhangxilong/Desktop/练习项目/newMusicPlay/vue-ts/src/assets/pic/demo.gif)
+![](./src/assets/pic/demo.gif)
 
 ## Project setup
 
